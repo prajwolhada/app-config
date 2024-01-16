@@ -231,7 +231,7 @@
     },
     {
       "paramKey": "BASE_URL",
-      "paramValue": "http://bankxp-sns.10.13.194.202.nip.io/webbackend/"
+      "paramValue": "http://bankxp-sns.10.13.194.202.nip.io/"
     },
     {
       "paramKey": "MIDDLEWARE_URL",
