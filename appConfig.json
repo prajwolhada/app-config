@@ -231,7 +231,7 @@
     },
     {
       "paramKey": "BASE_URL",
-      "paramValue": "https://uat-bankxp.f1soft.com.np/"
+      "paramValue": "http://bankxp-sns.10.13.194.202.nip.io/webbackend/"
     },
     {
       "paramKey": "MIDDLEWARE_URL",
