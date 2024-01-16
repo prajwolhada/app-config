@@ -1,0 +1,472 @@
+{
+  "success": true,
+  "data": [
+    {
+      "paramKey": "DETECT_NEPS_QR_IDENTIFIER_SECOND",
+      "paramValue": true
+    },
+    {
+      "paramKey": "ALLOW_EXCEL_DOWNLOAD",
+      "paramValue": true
+    },
+    {
+      "paramKey": "ALLOW_PDF_DOWNLOAD",
+      "paramValue": true
+    },
+    {
+      "paramKey": "ROADBLOCK_URL",
+      "paramValue": "https://uat-bankxp.f1soft.com.np/smartstatic/notice.html"
+    },
+    {
+      "paramKey": "NOTIFICATION_GROUP_MESSAGE",
+      "paramValue": "You have new messages"
+    },
+    {
+      "paramKey": "ENABLE_TXN_LIMIT",
+      "paramValue": true
+    },
+    {
+      "paramKey": "ENABLE_LOCALIZATION",
+      "paramValue": false
+    },
+    {
+      "paramKey": "ENABLE_NEPALI_LANGUAGE",
+      "paramValue": false
+    },
+    {
+      "paramKey": "ENABLE_LOGIN_IN_FONE_PAY_PAYMENT",
+      "paramValue": true
+    },
+    {
+      "paramKey": "SESSION_TIMEOUT_DURATION",
+      "paramValue": 300
+    },
+    {
+      "paramKey": "ENABLE_WALK_THROUGH",
+      "paramValue": true
+    },
+    {
+      "paramKey": "ENABLE_ON_BOARDING",
+      "paramValue": true
+    },
+    {
+      "paramKey": "ENABLE_EMAIL_VERIFICATION",
+      "paramValue": true
+    },
+    {
+      "paramKey": "SPLASH_DURATION",
+      "paramValue": 1500
+    },
+    {
+      "paramKey": "IS_ACTIVITY_VISIBLE",
+      "paramValue": true
+    },
+    {
+      "paramKey": "ENABLE_EMAIL_ADDRESS_IN_FDT",
+      "paramValue": true
+    },
+    {
+      "paramKey": "ENABLE_DEPOSIT_TYPE_IN_FDT",
+      "paramValue": true
+    },
+    {
+      "paramKey": "ENABLE_NOTE_IN_FDT",
+      "paramValue": false
+    },
+    {
+      "paramKey": "ENABLE_INTEREST_AMOUNT_IN_FDT",
+      "paramValue": false
+    },
+    {
+      "paramKey": "ENABLE_EMAIL_ADDRESS_IN_CARD_REQUEST",
+      "paramValue": false
+    },
+    {
+      "paramKey": "ENABLE_DEPOSIT_TYPE_BANK_BRANCH_IN_CARD_REQUEST",
+      "paramValue": true
+    },
+    {
+      "paramKey": "ENABLE_FOREX_V2",
+      "paramValue": false
+    },
+    {
+      "paramKey": "ENABLE_SECURITY_QUESTION",
+      "paramValue": true
+    },
+    {
+      "paramKey": "ENABLE_BANK_DEPOSIT_CASH_PICKUP_IN_IREMIT",
+      "paramValue": false
+    },
+    {
+      "paramKey": "ENABLE_PROMO_CODE_IN_MERCHANT_PAYMENT",
+      "paramValue": true
+    },
+    {
+      "paramKey": "ENABLE_FIXED_DEPOSIT_TERMS_AND_CONDITION",
+      "paramValue": true
+    },
+    {
+      "paramKey": "DISABLE_STEP_VIEW_IN_GENERIC_FORM",
+      "paramValue": true
+    },
+    {
+      "paramKey": "DISABLE_CARD_IN_GENERIC_FORM",
+      "paramValue": false
+    },
+    {
+      "paramKey": "ENABLE_SMS_MODE",
+      "paramValue": true
+    },
+    {
+      "paramKey": "QUICK_LINKS_VISIBLE_COUNT",
+      "paramValue": 16
+    },
+    {
+      "paramKey": "QUICK_LINKS_VIEW_VISIBLE_COUNT",
+      "paramValue": 4
+    },
+    {
+      "paramKey": "LOGIN_PHONE_NUMBER_LENGTH",
+      "paramValue": 15
+    },
+    {
+      "paramKey": "ENABLE_CREDIT_CARD_ACCOUNTS",
+      "paramValue": false
+    },
+    {
+      "paramKey": "ENABLE_NEPS",
+      "paramValue": false
+    },
+    {
+      "paramKey": "HAS_PRIVILEGED_STATUS",
+      "paramValue": false
+    },
+    {
+      "paramKey": "ENABLE_REMIT_IN_SEND_MONEY",
+      "paramValue": false
+    },
+    {
+      "paramKey": "ENABLE_ECASH_IN_SEND_MONEY",
+      "paramValue": true
+    },
+    {
+      "paramKey": "ENABLE_TERMS_AND_CONDITION_IN_APPOINTMENT",
+      "paramValue": true
+    },
+    {
+      "paramKey": "ENABLE_TERMS_AND_CONDITION_IN_EVOUCHER",
+      "paramValue": true
+    },
+    {
+      "paramKey": "ENABLE_FORM_AMOUNT_CARD",
+      "paramValue": true
+    },
+    {
+      "paramKey": "ENABLE_ACCEPT_REJECT_IN_PAYMENT_AUTHORIZATION",
+      "paramValue": false
+    },
+    {
+      "paramKey": "ENABLE_INCOME_EXPENSES_CHART",
+      "paramValue": true
+    },
+    {
+      "paramKey": "ENABLE_TERMS_AND_CONDITION_IN_RECURRING_DEPOSIT",
+      "paramValue": false
+    },
+    {
+      "paramKey": "ENABLE_BANNER_SERVICE_IN_LOGIN_PAGE",
+      "paramValue": true
+    },
+    {
+      "paramKey": "ENABLE_KYC",
+      "paramValue": false
+    },
+    {
+      "paramKey": "ENABLE_REMARKS_IN_IREMIT",
+      "paramValue": false
+    },
+    {
+      "paramKey": "ENABLE_REMARKS_IN_TOPUP",
+      "paramValue": false
+    },
+    {
+      "paramKey": "ENABLE_INTEREST_RATE_IN_BANK_ACCOUNTS",
+      "paramValue": false
+    },
+    {
+      "paramKey": "ENABLE_APP_TERMS_AND_CONDITION",
+      "paramValue": false
+    },
+    {
+      "paramKey": "ENABLE_PROFILE_UPLOAD_IN_ON_BOARDING",
+      "paramValue": true
+    },
+    {
+      "paramKey": "ENABLE_TAKE_A_TOUR_IN_ON_BOARDING",
+      "paramValue": false
+    },
+    {
+      "paramKey": "ENABLE_ACCOUNT_HEADERS",
+      "paramValue": false
+    },
+    {
+      "paramKey": "BANK_CODE",
+      "paramValue": "GRDBLNPKA"
+    },
+    {
+      "paramKey": "SWIFT_CODE",
+      "paramValue": "GRDBLNPKA"
+    },
+    {
+      "paramKey": "SHORT_CODE",
+      "paramValue": "35354"
+    },
+    {
+      "paramKey": "FONE_PAY_KEY",
+      "paramValue": "hskldkjkdsjk678kmkknknfknjdk"
+    },
+    {
+      "paramKey": "BANK_SMART_URL",
+      "paramValue": "https://uat-bankxp.f1soft.com.np/webbackend/"
+    },
+    {
+      "paramKey": "BASE_URL",
+      "paramValue": "https://uat-bankxp.f1soft.com.np/"
+    },
+    {
+      "paramKey": "MIDDLEWARE_URL",
+      "paramValue": "https://uat-bankxp.f1soft.com.np/customization/"
+    },
+    {
+      "paramKey": "CARD_URL",
+      "paramValue": "https://uat-bankxp.f1soft.com.np/card-web/"
+    },
+    {
+      "paramKey": "FONE_LOAN_BASE_URL",
+      "paramValue": "https://uat-bankxp.f1soft.com.np/foneloan/"
+    },
+    {
+      "paramKey": "QUICK_MERCHANT_URL",
+      "paramValue": "https://merchantapi.fonepay.com/api/"
+    },
+    {
+      "paramKey": "FONE_PAY_REWARD_URL",
+      "paramValue": "https://rewards.fonepay.com/"
+    },
+    {
+      "paramKey": "FONE_PAY_LOAD_MORE_URL",
+      "paramValue": "https://hub.fonepay.com/#/"
+    },
+    {
+      "paramKey": "APP_NAME",
+      "paramValue": "Garima Smart"
+    },
+    {
+      "paramKey": "DISABLE_APP_CACHE",
+      "paramValue": false
+    },
+    {
+      "paramKey": "ENABLE_STYLE_GUIDE",
+      "paramValue": false
+    },
+    {
+      "paramKey": "ENABLE_TERMS_AND_CONDITION_IN_ECASH",
+      "paramValue": true
+    },
+    {
+      "paramKey": "PREFERENCE_NAME",
+      "paramValue": "GRDBLNPKA"
+    },
+    {
+      "paramKey": "ENABLE_LOGIN_IN_FONEPAY_PAYMENT",
+      "paramValue": true
+    },
+    {
+      "paramKey": "ENABLE_REMIT_IN_IREMIT",
+      "paramValue": false
+    },
+    {
+      "paramKey": "ENABLE_SUBSCRIPTION_MENU",
+      "paramValue": false
+    },
+    {
+      "paramKey": "ENABLE_DEFAULT_EMAIL_ADDRESS_IN_FORMS",
+      "paramValue": true
+    },
+    {
+      "paramKey": "VISIBLE_EDIT_MENU_BUTTON_DEFAULT_IN_QUICK_LINKS",
+      "paramValue": true
+    },
+    {
+      "paramKey": "APP_REVIEW_CONFIG_KEY",
+      "paramValue": "3565725764"
+    },
+    {
+      "paramKey": "APP_REVIEW_CONFIG_VALUE",
+      "paramValue": "rodilavo19"
+    },
+    {
+      "paramKey": "ENABLE_NQR_PAYMENT",
+      "paramValue": true
+    },
+    {
+      "paramKey": "ENABLE_SMS_ACTIVATION_CONTROL",
+      "paramValue": true
+    },
+    {
+      "paramKey": "ACTIVATION_SMS_WAIT_TIME",
+      "paramValue": 20
+    },
+    {
+      "paramKey": "ENABLE_SMS_RESET_DEVICE_CONTROL",
+      "paramValue": true
+    },
+    {
+      "paramKey": "QUICK_LINKS_LOCAL_MENU_LIST",
+      "paramValue": [
+        "TRANSFER_HISTORY",
+        "PAYMENT_HISTORY",
+        "MY_SAVED_PAYMENTS",
+        "STVIEW",
+        "FRAGMENT_MY_ACCOUNT"
+      ]
+    },
+    {
+      "paramKey": "QUICK_LINKS_INITIAL_ORDER_LIST",
+      "paramValue": [
+        "STVIEW",
+        "FRAGMENT_MY_ACCOUNT",
+        "MBTOPUP",
+        "MY_SAVED_PAYMENTS",
+        "EC",
+        "DIGITAL_CHEQUE",
+        "EVOUCHER",
+        "MY_APPOINTMENTS",
+        "PAYMENT_HISTORY",
+        "TRANSFER_HISTORY",
+        "VIEW_SELECTED_SECURITY_QUESTIONS",
+        "ACCOUNT_PRODUCTS"
+      ]
+    },
+    {
+      "paramKey": "QUICK_LINK_EXCLUSION_LIST",
+      "paramValue": [
+        "ACCOUNT_HOME",
+        "ACCOUNT_PAYMENTS",
+        "SEND_MONEY",
+        "ACCOUNT_MORE",
+        "CIPS",
+        "FT",
+        "FTFA",
+        "FUND_TRANSFER_FAVORITE_ACCOUNT_SAME_BANK",
+        "FUND_TRANSFER_INSTANT_PAY",
+        "FTSTP",
+        "FTM",
+        "CP",
+        "CTP",
+        "FPSL",
+        "FPST",
+        "CHANGE_EMAIL_ADDRESS",
+        "FACEBOOK",
+        "YOUTUBE",
+        "TWITTER",
+        "INSTAGRAM",
+        "VIBER",
+        "ABOUT",
+        "ABOUT_BANK",
+        "ACCOUNT_SCANTO_PAY",
+        "CHANGE_PASSWORD",
+        "SETUP_BIOMETRICS",
+        "ACCOUNT_SETTINGS",
+        "NON_ACCOUNT_SETTINGS",
+        "SCT"
+      ]
+    },
+    {
+      "paramKey": "BANK_ACCOUNT_OPERATIONS",
+      "paramValue": [
+        "STVIEW",
+        "SHARE_ACCOUNT_INFO",
+        "CR"
+      ]
+    },
+    {
+      "paramKey": "FIXED_DEPOSIT_ACCOUNT_OPERATIONS",
+      "paramValue": [
+        "STVIEW"
+      ]
+    },
+    {
+      "paramKey": "LOAN_ACCOUNT_OPERATIONS",
+      "paramValue": []
+    },
+    {
+      "paramKey": "TENURE_INFO_FIELDS",
+      "paramValue": [
+        "minAmount",
+        "maxAmount",
+        "interval",
+        "interest",
+        "interestRate"
+      ]
+    },
+    {
+      "paramKey": "AMOUNT_PAYABLE_CARD",
+      "paramValue": [
+        "1000",
+        "2000",
+        "3000",
+        "5000",
+        "10000"
+      ]
+    },
+    {
+      "paramKey": "AMOUNT_PAYABLE_CARD_MERCHANT",
+      "paramValue": [
+        "10",
+        "20",
+        "50",
+        "100",
+        "200",
+        "500",
+        "1000"
+      ]
+    },
+    {
+      "paramKey": "AMOUNT_PAYABLE_CARD_SEND_MONEY",
+      "paramValue": [
+        "100",
+        "200",
+        "500",
+        "1000",
+        "2000",
+        "5000",
+        "10000"
+      ]
+    },
+    {
+      "paramKey": "AMOUNT_PAYABLE_CARD_IREMIT",
+      "paramValue": [
+        "100",
+        "200",
+        "500",
+        "1000",
+        "2000",
+        "5000",
+        "10000"
+      ]
+    },
+    {
+      "paramKey": "SPECIAL_MERCHANT_EXCLUSION_LIST",
+      "paramValue": [
+        "DISH_HOME",
+        "NCELL_DATA",
+        "NTC_DATA"
+      ]
+    },
+    {
+      "paramKey": "ENABLE_NPI_TRANSFER",
+      "paramValue": true
+    }
+  ]
+}
